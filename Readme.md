@@ -8,19 +8,19 @@ Grid layout example, which is not responsive.
 
 * The whole document
 
-![Desktop](./layout_body.png "desktop version")
+![Desktop](./layout_images/layout_body.png "desktop version")
 
 * Main section
 
-![Desktop](./layout_main.png "desktop version")
+![Desktop](./layout_images/layout_main.png "desktop version")
 
 * Second part
 
-![Desktop](./layout_section.png "desktop version")
+![Desktop](./layout_images/layout_section.png "desktop version")
 
 * Footer part
 
-![Desktop](./layout_footer.png "desktop version")
+![Desktop](./layout_images/layout_footer.png "desktop version")
 
 ## The onlive version
 
