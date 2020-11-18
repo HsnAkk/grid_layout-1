@@ -2,7 +2,7 @@
 
 Grid layout example, which is not responsive.
 
-![Desktop](./desktop.png "desktop version")
+![Desktop](./layout_images/desktop.png "desktop version")
 
 ## Layout designs
 
